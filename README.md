@@ -28,8 +28,9 @@ The computer chooses a random number between 1 and 50, and your job is to guess 
 •    JavaScript (ES6)
 
 ## 🔗 Live Demo
-[👉 Click here to use the Calculator](https://chitsunyein242.github.io/Guess-The-Number-Game/
+[👉 Click here to use Guess the number game](https://chitsunyein242.github.io/Guess-The-Number-Game/
 )
+
 
 
 
